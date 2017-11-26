@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.mdl-layout-title{
+    font-family: 'Fredoka One', cursive;
+    text-decoration: none;
+}
+
+
+
+.mdl-card__title-text{
+  color: white;
+
+}
+
+#boton{
+  color:blue;
+}
+
+.mdl-card__title{
+  height:350px;
+  width: auto;
+  background: url('images/fondo.png') no-repeat;
+  background-size:100% 100%;
+
+}
